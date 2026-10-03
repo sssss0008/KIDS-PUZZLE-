@@ -1,0 +1,6 @@
+{
+  "name": "KIDS PUZZLE",
+  "description": "Fun and interactive kids learning & puzzle adventure with phonics, games, quizzes, drawing, and ranking!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

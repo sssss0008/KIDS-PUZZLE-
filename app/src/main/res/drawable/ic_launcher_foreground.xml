@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Top-Left Piece (Coral Red) -->
+    <path
+        android:fillColor="#FF5A5F"
+        android:pathData="M 28 28 L 50 28 C 50 32 54 36 54 36 C 54 36 50 40 50 44 L 50 54 L 40 54 C 36 54 32 50 32 50 C 32 50 28 54 28 54 Z" />
+
+    <!-- Top-Right Piece (Bright Sky Blue) -->
+    <path
+        android:fillColor="#00B4D8"
+        android:pathData="M 54 28 L 80 28 L 80 50 C 76 50 72 54 72 54 C 72 54 76 58 76 62 L 76 54 L 54 54 C 54 50 50 46 50 46 C 50 46 54 42 54 38 Z" />
+
+    <!-- Bottom-Left Piece (Sunny Yellow / Amber) -->
+    <path
+        android:fillColor="#FFB703"
+        android:pathData="M 28 54 L 50 54 C 50 58 54 62 54 62 C 54 62 50 66 50 70 L 50 80 L 28 80 L 28 54 Z" />
+
+    <!-- Bottom-Right Piece (Vibrant Emerald Green) -->
+    <path
+        android:fillColor="#06D6A0"
+        android:pathData="M 54 54 L 76 54 L 80 54 L 80 80 L 54 80 C 54 76 50 72 50 72 C 50 72 54 68 54 64 Z" />
+
+    <!-- Center White Badge / Star for Kids Adventure -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,42 L 57.5,49.5 L 65,50.5 L 59.5,56 L 61,64 L 54,60 L 47,64 L 48.5,56 L 43,50.5 L 50.5,49.5 Z" />
+
+    <!-- Star Smile & Eyes -->
+    <path
+        android:fillColor="#264653"
+        android:pathData="M 51.5,52.5 a 1.2,1.2 0 1,0 2.4,0 a 1.2,1.2 0 1,0 -2.4,0" />
+    <path
+        android:fillColor="#264653"
+        android:pathData="M 54.5,52.5 a 1.2,1.2 0 1,0 2.4,0 a 1.2,1.2 0 1,0 -2.4,0" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#264653"
+        android:strokeWidth="0.9"
+        android:strokeLineCap="round"
+        android:pathData="M 52,56 Q 54,58 56,56" />
+
+    <!-- Little Sparkles around -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 33,35 L 34.5,38 L 37.5,39.5 L 34.5,41 L 33,44 L 31.5,41 L 28.5,39.5 L 31.5,38 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 75,36 L 76,38 L 78,39 L 76,40 L 75,42 L 74,40 L 72,39 L 74,38 Z" />
+</vector>
